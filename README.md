@@ -26,3 +26,7 @@ g++ House.cpp -o HouseGame
 
 ## Status
 Currently in development, with plans to expand into a full game using a game engine.
+
+## Screenshots
+<img width="341" height="166" alt="image" src="https://github.com/user-attachments/assets/6048d5f6-f022-43db-bbe8-528c954a7812" />
+<img width="1100" height="291" alt="image" src="https://github.com/user-attachments/assets/d72b20b7-4f6d-4cef-9244-f56efb8e97a6" />
