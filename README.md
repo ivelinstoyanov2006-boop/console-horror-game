@@ -15,7 +15,7 @@ This project was created as a personal exploration of interactive storytelling a
 - Console input/output
 
 ## How to Run
-1. Ensure the .wav file is located in the same directory as the source code.
+1. Ensure the .wav file is located in the same directory as the source code
 2. Compile the code using a C++ compiler (e.g. g++)
 3. Run the generated executable
 4. Follow the on-screen instructions
