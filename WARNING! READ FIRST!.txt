@@ -1,0 +1,2 @@
+Extract everything. Keep the .wav and .exe together in one folder. If silence greets you instead of sound, reach out. If the experience refuses to open and spits errors at you, reach out.
+Enjoy this short work in progress experience.
